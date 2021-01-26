@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
-options: "4ee00d3bf878310d43cebe62f7f20558"
-build_time: [1611654617, 901364000]
-inputs:
-  "/Users/work/Desktop/Github/Jenkins_Test/Jenkins_Test/ViewController.swift": [1611591666, 378078468]
-  "/Users/work/Desktop/Github/Jenkins_Test/Jenkins_Test/AppDelegate.swift": [1611591666, 358353970]
-  "/Users/work/Desktop/Github/Jenkins_Test/Jenkins_Test/SceneDelegate.swift": [1611591666, 374932722]
